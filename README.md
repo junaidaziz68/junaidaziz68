@@ -1,6 +1,6 @@
 
  
- void aboutMe(){
+ function aboutMe () {
 
 👋 Hi, I’m @junaidaziz68   👀 I’m interested in bringing ideas too life and looking for a career in software indusrty.
 
@@ -8,7 +8,7 @@
 
 Im looking for a new opportunity where i can use my skills and also learn from you so if your intersted in having a chat please email me 
 
-junaidaziz68@outlook.com
+junaid.aziz.dev@gmail.com
 
 
 kind regards 
